@@ -15,7 +15,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin:auto auto;
+    margin:4rem auto;
 }
 .board{
     background:linear-gradient(rgb(68 246 238),rgb(255, 255, 255),rgb(68 246 238));
